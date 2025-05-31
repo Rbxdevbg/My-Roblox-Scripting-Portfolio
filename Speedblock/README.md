@@ -14,3 +14,5 @@ This script adds +1 speed to any player who touches a special block. The block s
 - Server-side scripting
 - Value instances (IntValue)
 - WalkSpeed manipulation
+
+ This is part of my beginner scripting portfolio. Please do not reuse or claim this code as your own
