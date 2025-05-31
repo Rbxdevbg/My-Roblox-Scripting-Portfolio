@@ -15,4 +15,6 @@ This script adds +1 speed to any player who touches a special block. The block s
 - Value instances (IntValue)
 - WalkSpeed manipulation
 
- This is part of my beginner scripting portfolio. Please do not reuse or claim this code as your own
+---
+
+ This script is part of my Roblox beginner scripting portfolio. Please do not copy or claim it as your own.
